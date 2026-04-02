@@ -2,9 +2,21 @@
 # 👋 Hola, soy Fredy
 
 💻 Developer  
-🔐 Enfocado en Ciberseguridad 
-🚀 Desarrollo aplicaciones modernas y sistemas inteligentes  
+🚀 Desarrollo aplicaciones modernas, seguras e inteligentes  
 
+## 🚀 Stack Tecnológico
+
+[ Frontend ]
+Angular · TypeScript · Tailwind · JavaScript · HTML5 · CSS3  
+
+[ Backend ]
+Node.js · Spring Boot · APIs REST · MySQL 
+
+[ Data & IA ]
+Python · Pandas · Análisis de datos · Machine Learning  
+
+[ DevOps & Tools ]
+Docker · Git · GitHub · Postman · VS Code  
 ---
 
 ## 🚀 Tecnologías
@@ -17,20 +29,41 @@
 
 ---
 
-## 🔥 Proyectos Destacados
-
-### 🔐 SIEM 
-Sistema de detección de anomalías usando Machine Learning  
-- FastAPI  
-- Pandas  
-- Streamlit  
-
----
-
-### 🏪 Sistema 
-Sistema de ventas 
 
 
+🔐 Enfocado en Ciberseguridad 
+### 🔐 Ciberseguridad
+
+[ Firewalls & Redes ]
+- FortiGate
+- FortiAnalyzer
+- Segmentación de red
+- VLANs
+- VPN (IPSec / SSL)
+
+[ Monitoreo & Análisis ]
+- Análisis de tráfico de red
+- Detección de anomalías
+- SIEM (básico / IA)
+- Logs analysis (pandas)
+
+[ Seguridad Ofensiva ]
+- OWASP Top 10
+- Nmap (reconocimiento)
+- Burp Suite
+- Metasploit (básico)
+- Wireshark
+
+[ Sistemas & Servidores ]
+- Windows Server
+- Active Directory
+- GPO
+- DNS / DHCP
+
+[ Linux & Automatización ]
+- Ubuntu / Debian
+- Bash scripting
+- Python para seguridad
 
 ## 📫 Contacto
 - Email: serech63@gmail.com
